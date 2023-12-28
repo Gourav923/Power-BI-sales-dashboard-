@@ -9,4 +9,8 @@ Owner of Mehta Store wants us to help them create a dashboard to track and analy
 
 
 Project learnings:
+
 Created interactive dashboard to track and analyze online sales data
+PROJECT  LEARNINGS
+
+-Used complex parameters to drill down in worksheet and customization using filters and slicers.
